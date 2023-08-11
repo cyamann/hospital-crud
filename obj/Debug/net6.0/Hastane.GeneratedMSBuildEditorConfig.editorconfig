@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hastane
+build_property.RootNamespace = Hastane
+build_property.ProjectDir = C:\Users\Ceren.CEREN\source\repos\Hastane\Hastane\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ceren.CEREN\source\repos\Hastane\Hastane
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Hasta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Hasta/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Hasta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Hasta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Hasta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Ziyaretler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWml5YXJldGxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Ziyaretler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWml5YXJldGxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Ziyaretler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWml5YXJldGxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Ziyaretler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWml5YXJldGxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Ziyaretler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWml5YXJldGxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ceren.CEREN/source/repos/Hastane/Hastane/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-by5jemz9mc
